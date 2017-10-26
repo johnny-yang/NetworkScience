@@ -1,5 +1,5 @@
 #
-# Directed graph - in-degree Distribution. G(5242, 28980). 579 (0.1105) nodes with in-deg > avg deg (11.1), 227 (0.0433) with >2*avg.deg (Thu Oct 26 15:08:08 2017)
+# Directed graph - in-degree Distribution. G(5242, 14496). 1361 (0.2596) nodes with in-deg > avg deg (5.5), 579 (0.1105) with >2*avg.deg (Thu Oct 26 16:54:42 2017)
 #
 # In-degree	Count
 1	1197
