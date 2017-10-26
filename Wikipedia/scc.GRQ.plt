@@ -1,5 +1,5 @@
 #
-# Directed graph - scc distribution. G(7050, 103565). Largest component has 0.183688 nodes (Thu Oct 26 14:32:16 2017)
+# Directed graph - scc distribution. G(7050, 103565). Largest component has 0.183688 nodes (Thu Oct 26 17:50:36 2017)
 #
 
 set title "Directed graph - scc distribution. G(7050, 103565). Largest component has 0.183688 nodes"

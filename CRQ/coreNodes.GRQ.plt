@@ -1,5 +1,5 @@
 #
-# Directed graph - k-core nodes. G(5242, 14496). (Thu Oct 26 16:54:46 2017)
+# Directed graph - k-core nodes. G(5242, 14496). (Thu Oct 26 17:46:57 2017)
 #
 
 set title "Directed graph - k-core nodes. G(5242, 14496)."

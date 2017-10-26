@@ -1,5 +1,5 @@
 #
-# Directed graph - wcc distribution. G(1005, 25571). Largest component has 0.981095 nodes (Thu Oct 26 14:28:47 2017)
+# Directed graph - wcc distribution. G(1005, 25571). Largest component has 0.981095 nodes (Thu Oct 26 17:47:22 2017)
 #
 
 set title "Directed graph - wcc distribution. G(1005, 25571). Largest component has 0.981095 nodes"

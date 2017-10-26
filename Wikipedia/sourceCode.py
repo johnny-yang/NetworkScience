@@ -40,7 +40,7 @@ for node in Nodes:
     node_cen.append(Nodes[node])
 Betness = pd.concat([pd.Series(node_pd),pd.Series(node_cen)],axis=1)
 Betness.columns = ['node','centrality']
-Betness.to_csv('betness.csv')
+Betness.to_csv('betness.csv',sep='\t')
 plot_all('GRQ')
 # for edge in Edges:
 #     print "edge: (%d, %d) centrality: %f" % (edge.GetVal1(), edge.GetVal2(), Edges[edge])

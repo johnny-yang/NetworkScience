@@ -1,5 +1,5 @@
 #
-# Directed graph - shortest path. G(7050, 103565). Diam: avg:3.33  eff:3.95  max:10 (Thu Oct 26 14:32:22 2017)
+# Directed graph - shortest path. G(7050, 103565). Diam: avg:3.33  eff:3.95  max:10 (Thu Oct 26 17:50:40 2017)
 #
 
 set title "Directed graph - shortest path. G(7050, 103565). Diam: avg:3.33  eff:3.95  max:10"
