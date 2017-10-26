@@ -1,5 +1,5 @@
 #
-# Directed graph - k-core nodes. G(1005, 25571). (Thu Oct 26 13:39:40 2017)
+# Directed graph - k-core nodes. G(1005, 25571). (Thu Oct 26 14:28:47 2017)
 #
 
 set title "Directed graph - k-core nodes. G(1005, 25571)."

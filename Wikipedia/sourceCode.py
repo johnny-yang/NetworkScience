@@ -16,7 +16,7 @@ def plot_all(Graph_name):
     # scc
     snap.PlotSccDistr(G2,Graph_name , "Directed graph - scc distribution")
     # wcc
-    snap.PlotSccDistr(G2, Graph_name, "Directed graph - wcc distribution")
+    snap.PlotWccDistr(G2, Graph_name, "Directed graph - wcc distribution")
     # cluster cofficient
     snap.PlotClustCf(G2, Graph_name, "Directed graph - clustering coefficient")
     # in-degree

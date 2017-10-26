@@ -1,5 +1,5 @@
 #
-# Directed graph - in-degree Distribution. G(5242, 28980). 579 (0.1105) nodes with in-deg > avg deg (11.1), 227 (0.0433) with >2*avg.deg (Thu Oct 26 13:23:47 2017)
+# Directed graph - in-degree Distribution. G(5242, 28980). 579 (0.1105) nodes with in-deg > avg deg (11.1), 227 (0.0433) with >2*avg.deg (Thu Oct 26 14:28:11 2017)
 #
 
 set title "Directed graph - in-degree Distribution. G(5242, 28980). 579 (0.1105) nodes with in-deg > avg deg (11.1), 227 (0.0433) with >2*avg.deg"

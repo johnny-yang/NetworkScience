@@ -1,8 +1,8 @@
 #
-# Directed graph - wcc distribution. G(1005, 25571). Largest component has 0.799005 nodes (Thu Oct 26 13:39:40 2017)
+# Directed graph - scc distribution. G(1005, 25571). Largest component has 0.799005 nodes (Thu Oct 26 14:28:47 2017)
 #
 
-set title "Directed graph - wcc distribution. G(1005, 25571). Largest component has 0.799005 nodes"
+set title "Directed graph - scc distribution. G(1005, 25571). Largest component has 0.799005 nodes"
 set key bottom right
 set logscale xy 10
 set format x "10^{%L}"
