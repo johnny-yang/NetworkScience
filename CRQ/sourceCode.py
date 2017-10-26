@@ -6,7 +6,8 @@ edgeList.columns = ['From','To']
 edgeListNode = list(pd.concat([edgeList['From'],edgeList['To']],axis=0).unique())
 # directed use G2
 # G1 = snap.TUNGraph.New()
-G2 = snap.TNGraph.New()
+# G2 = snap.TNGraph.New()
+G2 = snap.TUNGraph.New()
 for node in edgeListNode:
     G2.AddNode(node)
 for i in range((len(edgeList))):

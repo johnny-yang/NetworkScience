@@ -1,8 +1,8 @@
 #
-# Directed graph - k-core nodes. G(5242, 28980). (Thu Oct 26 14:28:15 2017)
+# Directed graph - k-core nodes. G(5242, 14496). (Thu Oct 26 14:53:22 2017)
 #
 
-set title "Directed graph - k-core nodes. G(5242, 28980)."
+set title "Directed graph - k-core nodes. G(5242, 14496)."
 set key bottom right
 set logscale y 10
 set format y "10^{%L}"

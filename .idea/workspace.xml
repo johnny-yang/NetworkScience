@@ -2,43 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e6ffb1d8-3c56-4095-8756-6e61c1b9f876" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/Actual_set.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/General Relativity and Quantum Cosmology collaboration network.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/betness.csv" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/ccf.GRQ.plt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/ccf.GRQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/ccf.GRQ.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/coreNodes.GRQ.plt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/coreNodes.GRQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/coreNodes.GRQ.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/diam.GRQ.plt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/diam.GRQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/diam.GRQ.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/inDeg.GRQ.plt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/inDeg.GRQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/inDeg.GRQ.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/outDeg.GRQ.plt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/outDeg.GRQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/outDeg.GRQ.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/scc.GRQ.plt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/scc.GRQ.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/scc.GRQ.tab" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/sourceCode.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/ccf.EUC.plt" afterPath="$PROJECT_DIR$/Email_euro/ccf.EUC.plt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/ccf.EUC.tab" afterPath="$PROJECT_DIR$/Email_euro/ccf.EUC.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/coreNodes.EUC.plt" afterPath="$PROJECT_DIR$/Email_euro/coreNodes.EUC.plt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/coreNodes.EUC.tab" afterPath="$PROJECT_DIR$/Email_euro/coreNodes.EUC.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/diam.EUC.plt" afterPath="$PROJECT_DIR$/Email_euro/diam.EUC.plt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/diam.EUC.tab" afterPath="$PROJECT_DIR$/Email_euro/diam.EUC.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/inDeg.EUC.plt" afterPath="$PROJECT_DIR$/Email_euro/inDeg.EUC.plt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/inDeg.EUC.tab" afterPath="$PROJECT_DIR$/Email_euro/inDeg.EUC.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/outDeg.EUC.plt" afterPath="$PROJECT_DIR$/Email_euro/outDeg.EUC.plt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/outDeg.EUC.tab" afterPath="$PROJECT_DIR$/Email_euro/outDeg.EUC.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/scc.EUC.plt" afterPath="$PROJECT_DIR$/Email_euro/scc.EUC.plt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/scc.EUC.tab" afterPath="$PROJECT_DIR$/Email_euro/scc.EUC.tab" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Email_euro/sourceCode.py" afterPath="$PROJECT_DIR$/Email_euro/sourceCode.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Wikipedia/sourceCode.py" afterPath="$PROJECT_DIR$/Wikipedia/sourceCode.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CRQ/sourceCode.py" afterPath="$PROJECT_DIR$/CRQ/sourceCode.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sourceCode.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="sourceCode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Wikipedia/sourceCode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="66">
+              <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -78,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sourceCode.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="sourceCode.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CRQ/sourceCode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+            <state relative-caret-position="-220">
+              <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -128,8 +92,8 @@
         <option value="$PROJECT_DIR$/sourceCode.py" />
         <option value="$PROJECT_DIR$/General Relativity and Quantum Cosmology collaboration network/sourceCode.py" />
         <option value="$PROJECT_DIR$/Wikipedia/sourceCode.py" />
-        <option value="$PROJECT_DIR$/CRQ/sourceCode.py" />
         <option value="$PROJECT_DIR$/Email_euro/sourceCode.py" />
+        <option value="$PROJECT_DIR$/CRQ/sourceCode.py" />
       </list>
     </option>
   </component>
@@ -139,7 +103,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="300" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -166,11 +130,6 @@
             <path>
               <item name="NetworkScience" type="b2602c69:ProjectViewProjectNode" />
               <item name="NetworkScience" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="NetworkScience" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NetworkScience" type="462c0819:PsiDirectoryNode" />
-              <item name="CRQ" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="NetworkScience" type="b2602c69:ProjectViewProjectNode" />
@@ -288,7 +247,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="300" y="20" width="1841" height="1086" extended-state="7" />
+    <frame x="300" y="20" width="1841" height="1086" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2070906" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -381,16 +340,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CRQ/sourceCode.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Email_euro/sourceCode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -403,8 +352,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Wikipedia/sourceCode.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="18" column="14" lean-forward="true" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        <state relative-caret-position="66">
+          <caret line="3" column="54" lean-forward="true" selection-start-line="3" selection-start-column="54" selection-end-line="3" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CRQ/sourceCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="17" column="66" lean-forward="true" selection-start-line="17" selection-start-column="66" selection-end-line="17" selection-end-column="66" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
