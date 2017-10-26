@@ -1,8 +1,8 @@
 #
-# Directed graph - out-degree Distribution. G(5242, 14496). 1361 (0.2596) nodes with out-deg > avg deg (5.5), 579 (0.1105) with >2*avg.deg (Thu Oct 26 14:53:18 2017)
+# Directed graph - out-degree Distribution. G(5242, 28980). 579 (0.1105) nodes with out-deg > avg deg (11.1), 227 (0.0433) with >2*avg.deg (Thu Oct 26 15:08:08 2017)
 #
 
-set title "Directed graph - out-degree Distribution. G(5242, 14496). 1361 (0.2596) nodes with out-deg > avg deg (5.5), 579 (0.1105) with >2*avg.deg"
+set title "Directed graph - out-degree Distribution. G(5242, 28980). 579 (0.1105) nodes with out-deg > avg deg (11.1), 227 (0.0433) with >2*avg.deg"
 set key bottom right
 set logscale xy 10
 set format x "10^{%L}"
