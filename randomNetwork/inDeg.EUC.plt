@@ -1,8 +1,8 @@
 #
-# Directed graph - in-degree Distribution. G(7115, 103406). 405 (0.0569) nodes with in-deg > avg deg (29.1), 0 (0.0000) with >2*avg.deg (Sun Oct 29 09:51:26 2017)
+# Directed graph - in-degree Distribution. G(7051, 100326). 490 (0.0695) nodes with in-deg > avg deg (28.5), 0 (0.0000) with >2*avg.deg (Sun Oct 29 17:13:47 2017)
 #
 
-set title "Directed graph - in-degree Distribution. G(7115, 103406). 405 (0.0569) nodes with in-deg > avg deg (29.1), 0 (0.0000) with >2*avg.deg"
+set title "Directed graph - in-degree Distribution. G(7051, 100326). 490 (0.0695) nodes with in-deg > avg deg (28.5), 0 (0.0000) with >2*avg.deg"
 set key bottom right
 set logscale xy 10
 set format x "10^{%L}"

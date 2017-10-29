@@ -1,8 +1,8 @@
 #
-# Directed graph - clustering coefficient. G(5242, 15726). Average clustering: 0.0097  OpenTriads: 274459 (0.9982)  ClosedTriads: 495 (0.0018) (Sun Oct 29 09:52:12 2017)
+# Directed graph - clustering coefficient. G(5242, 15726). Average clustering: 0.0105  OpenTriads: 270144 (0.9981)  ClosedTriads: 521 (0.0019) (Sun Oct 29 17:10:47 2017)
 #
 
-set title "Directed graph - clustering coefficient. G(5242, 15726). Average clustering: 0.0097  OpenTriads: 274459 (0.9982)  ClosedTriads: 495 (0.0018)"
+set title "Directed graph - clustering coefficient. G(5242, 15726). Average clustering: 0.0105  OpenTriads: 270144 (0.9981)  ClosedTriads: 521 (0.0019)"
 set key bottom right
 set logscale xy 10
 set format x "10^{%L}"

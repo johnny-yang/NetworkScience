@@ -1,8 +1,8 @@
 #
-# Directed graph - shortest path. G(7115, 103406). Diam: avg:4.00  eff:5.10  max:17 (Sun Oct 29 09:51:29 2017)
+# Directed graph - shortest path. G(7051, 100326). Diam: avg:4.01  eff:5.13  max:16 (Sun Oct 29 17:13:50 2017)
 #
 
-set title "Directed graph - shortest path. G(7115, 103406). Diam: avg:4.00  eff:5.10  max:17"
+set title "Directed graph - shortest path. G(7051, 100326). Diam: avg:4.01  eff:5.13  max:16"
 set key bottom right
 set logscale y 10
 set format y "10^{%L}"
