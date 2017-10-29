@@ -1,0 +1,12 @@
+#
+# Directed graph - shortest path. G(1000, 2000). Diam: avg:3.88  eff:4.63  max:7 (Sun Oct 29 16:38:30 2017)
+#
+# Number of hops	Number of shortest paths
+0	1000
+1	4000
+2	50732
+3	259398
+4	448780
+5	215468
+6	20502
+7	120

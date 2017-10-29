@@ -1,0 +1,9 @@
+#
+# Directed graph - k-core nodes. G(1000, 2000). (Sun Oct 29 16:38:30 2017)
+#
+# k-Core	Number of nodes in the k-Core
+0	1000
+1	1000
+2	1000
+3	5
+4	5
