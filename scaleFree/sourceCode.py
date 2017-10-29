@@ -1,7 +1,7 @@
 import snap
 import pandas as pd
 # load data
-edgeList = pd.read_csv('./BA.csv',header =None)
+edgeList = pd.read_csv('./BAedges.txt',header =None,sep=' ')
 edgeList.columns = ['From','To']
 edgeListNode = list(pd.concat([edgeList['From'],edgeList['To']],axis=0).unique())
 # directed use G2
