@@ -1,5 +1,5 @@
 #
-# Directed graph - clustering coefficient. G(7050, 103565). Average clustering: 0.1420  OpenTriads: 12711791 (0.9543)  ClosedTriads: 608324 (0.0457) (Thu Oct 26 17:50:36 2017)
+# Directed graph - clustering coefficient. G(7050, 103565). Average clustering: 0.1420  OpenTriads: 12711791 (0.9543)  ClosedTriads: 608324 (0.0457) (Sat Oct 28 14:22:01 2017)
 #
 
 set title "Directed graph - clustering coefficient. G(7050, 103565). Average clustering: 0.1420  OpenTriads: 12711791 (0.9543)  ClosedTriads: 608324 (0.0457)"

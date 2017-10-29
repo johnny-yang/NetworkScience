@@ -1,5 +1,5 @@
 #
-# Directed graph - out-degree Distribution. G(7050, 103565). 870 (0.1234) nodes with out-deg > avg deg (29.4), 462 (0.0655) with >2*avg.deg (Thu Oct 26 17:50:36 2017)
+# Directed graph - out-degree Distribution. G(7050, 103565). 870 (0.1234) nodes with out-deg > avg deg (29.4), 462 (0.0655) with >2*avg.deg (Sat Oct 28 14:22:01 2017)
 #
 
 set title "Directed graph - out-degree Distribution. G(7050, 103565). 870 (0.1234) nodes with out-deg > avg deg (29.4), 462 (0.0655) with >2*avg.deg"

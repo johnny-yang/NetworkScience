@@ -1,0 +1,20 @@
+#
+# Directed graph - shortest path. G(5242, 15726). Diam: avg:4.27  eff:6.27  max:15 (Sun Oct 29 09:52:12 2017)
+#
+# Number of hops	Number of shortest paths
+0	5242
+1	15726
+2	44557
+3	85423
+4	94548
+5	75716
+6	47421
+7	25824
+8	13081
+9	5947
+10	2446
+11	910
+12	319
+13	81
+14	11
+15	1
